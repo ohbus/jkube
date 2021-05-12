@@ -90,7 +90,7 @@
     <version.maven-invoker-plugin>2.0.0</version.maven-invoker-plugin>
     <version.maven-jar-plugin>3.2.0</version.maven-jar-plugin>
     <version.maven-javadoc-plugin>3.2.0</version.maven-javadoc-plugin>
-    <version.maven-plugin-plugin>3.5.1</version.maven-plugin-plugin>
+    <version.maven-plugin-plugin>3.6.1</version.maven-plugin-plugin>
     <version.maven-release-plugin>3.0.0-M1</version.maven-release-plugin>
     <version.maven-resources-plugin>3.2.0</version.maven-resources-plugin>
     <version.maven-source-plugin>3.2.1</version.maven-source-plugin>
